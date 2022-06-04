@@ -1,8 +1,3 @@
-//+------------------------------------------------------------------+
-//|                                                  pivot-point.mq4 |
-//|                                                           Meisam |
-//|                                    contact.with.meisam@gmail.com |
-//+------------------------------------------------------------------+
 #property copyright "NEO"
 #property link      "Neo.Reverser@gmail.com"
 #property version   "1.0.0"
